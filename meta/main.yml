@@ -1,7 +1,7 @@
 galaxy_info:
   role_name: rhel10_stig_gui
   author: ComplianceAsCode development team
-  description: Red Hat STIG with GUI for Red Hat Enterprise Linux 10
+  description: DISA STIG with GUI for Red Hat Enterprise Linux 10
 
   issue_tracker_url: https://github.com/ComplianceAsCode/content/issues
 
